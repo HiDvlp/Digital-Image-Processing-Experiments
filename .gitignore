@@ -54,3 +54,21 @@ Makefile
 *.a
 *.lib
 *.dll
+
+# 运行结果图片
+*.jpg
+*.png
+!1-1.jpg
+!1-2.jpg
+!2-1.jpg
+!2-2.jpg
+!2-3.jpg
+!3-01.png
+!3-02.png
+!3-03.png
+!3-04.png
+!3.jpg
+!5-1.png
+!6-1.jpg
+!6-2.jpg
+!10-46.jpg
