@@ -1,0 +1,32 @@
+# VSCode 编辑器配置
+.vscode/
+
+# Python 编译产物
+__pycache__/
+*.pyc
+*.pyo
+
+# Python 虚拟环境
+venv/
+.venv/
+env/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 环境变量文件（可能含密钥）
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 课程资料（非自己代码）
+Assignments/
+Questions/
+Textbooks/
+Slides/
