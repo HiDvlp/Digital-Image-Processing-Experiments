@@ -1,3 +1,0 @@
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/hello_world/build/CMakeFiles/hello_world.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/hello_world/build/CMakeFiles/edit_cache.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/hello_world/build/CMakeFiles/rebuild_cache.dir

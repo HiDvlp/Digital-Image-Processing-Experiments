@@ -1,3 +1,0 @@
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/random/build/CMakeFiles/main.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/random/build/CMakeFiles/edit_cache.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/cpp_compile_tutorial/random/build/CMakeFiles/rebuild_cache.dir

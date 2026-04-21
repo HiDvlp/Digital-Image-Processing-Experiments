@@ -1,3 +1,0 @@
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/chap_1/task_1/subtask_1/build/CMakeFiles/subtask_1.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/chap_1/task_1/subtask_1/build/CMakeFiles/edit_cache.dir
-/home/gaofazhan/courses/Digital_Image_Processing/Experiments/chap_1/task_1/subtask_1/build/CMakeFiles/rebuild_cache.dir

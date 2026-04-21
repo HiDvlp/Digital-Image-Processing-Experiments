@@ -14,7 +14,7 @@ env/
 # Jupyter Notebook 检查点
 .ipynb_checkpoints/
 
-# 环境变量文件（可能含密钥）
+# 环境变量文件
 .env
 
 # 系统文件
@@ -25,10 +25,32 @@ Thumbs.db
 *.log
 *.tmp
 
-# 课程资料（非自己代码）
+# 课程资料
 Assignments/
 Questions/
 Textbooks/
 Slides/
+
+# 文档文件（不纳入版本控制）
 *.pdf
 *.docx
+*.doc
+*.xlsx
+
+# CMake 编译产物
+build/
+*.o
+*.obj
+*.exe
+*.out
+a.out
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# C/C++ 编译产物
+*.so
+*.a
+*.lib
+*.dll
