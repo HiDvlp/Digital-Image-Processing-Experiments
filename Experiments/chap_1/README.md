@@ -17,7 +17,7 @@ sudo apt install build-essential cmake libopencv-dev -y
 
 ## 项目结构
 ```
-Digital-ImagE-Processing/Experiments/chap_1
+Digital-Image-Processing-Experiments/Experiments/chap_1
 ├── 1-1.jpg
 ├── 1-2.jpg
 ├── 1-2.tif
