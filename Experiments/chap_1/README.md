@@ -48,7 +48,7 @@ Digital-Image-Processing-Experiments/Experiments/chap_1
 ## 使用说明
 ### 克隆仓库
 ```bash
-git clone https://github.com/HiDvlp/Digital-Image-Processing-Experiments/tree/main/Experiments/chap_1
+git clone https://github.com/HiDvlp/Digital-Image-Processing-Experiments.git
 ```
 ### 编译和运行
 以第1个任务的第1个子任务（全局直方图均衡化）为例，
